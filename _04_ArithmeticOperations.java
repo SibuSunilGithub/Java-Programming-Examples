@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ArithmeticOperations {
+public class _04_ArithmeticOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number:");
